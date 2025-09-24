@@ -1,4 +1,4 @@
-# MCP Crash Course for Python Developers
+# MCP for Python Developers
 
 The Model Context Protocol (MCP) is a powerful framework that enables developers to build AI applications with large language models (LLMs) by providing a standardized way to connect models with external data sources and tools. This crash course will guide you through the fundamentals of MCP, from understanding its core concepts to implementing servers and clients that leverage prompts, resources, and tools.
 
